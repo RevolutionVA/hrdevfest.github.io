@@ -1107,6 +1107,8 @@
 		  ga('create', 'UA-41419813-4', 'auto');
 		  ga('send', 'pageview');
 
+		  // User is not a bounce after spending 30 secs on single page site.
+		  setTimeout(function(){_gaq.push(['_trackEvent', 'Control', 'Bounce Rate', ''])}, 30000);
 		</script>
 	</body>
 </html>
