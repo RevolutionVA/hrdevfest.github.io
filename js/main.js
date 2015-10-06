@@ -2,7 +2,7 @@
     "use strict";
 
     var venueAddress = "6160 Kempsville Circle, Norfolk, VA", // Venue Address
-        eventInfo = ["Norfolk, Virginia", "November 13th & 14th, 2015", "Grow Your Knowledge", "Sharpen Your Skills"]; // Event Info
+        eventInfo = ["Norfolk, Virginia", "November 14th, 2015", "Grow Your Knowledge", "Sharpen Your Skills"]; // Event Info
 
     var fn = {
 
