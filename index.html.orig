@@ -421,7 +421,11 @@
                                                 Abstract TBD.
                                             </p>
                                             <p>
+<<<<<<< HEAD
                                                 Bio TBD.
+=======
+                                                Lee Perkins is a senior software engineer for Issuetrak.  He has been involved in the software field for over 30 years.  He started as a hobbyist programmer in the ‘80s and started his professional career as a software developer in 1990 at a company that no longer exists, Office Warehouse. His passion for programming has fueled his ever continuing desire to learn and advance in the field.  He accomplished one of his dreams from 2005 through 2011 by running his own contract software development business.  In the beginning of 2012 he became a full time employee of Issuetrak where he had been contracting for over 6 years.  His more recent experiences include ASP.NET MVC, C#, JavaScript, and IoT.  His passion for IoT combined with his decades of experience with Microsoft have led him to a fascination with Windows 10 IoT on the Raspberry Pi.
+>>>>>>> 031a43190160226a4bfe7e63bb21b30e49fb6f92
                                             </p>
                                             <!--<a href="https://twitter.com/fvcproductions" target="_blank">@fvcproductions</a><br />
             <a href="https://www.linkedin.com/in/fvcproductions" target="_blank">LinkedIn</a><br />
