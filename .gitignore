@@ -6,3 +6,6 @@ Package Control.sublime-settings
 
 # Default OS files
 .DS_Store
+
+# Visual Studio
+*.sln
