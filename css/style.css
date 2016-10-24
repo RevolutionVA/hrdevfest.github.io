@@ -828,10 +828,18 @@ Partners
 	height: 130px;
 	padding: 15px;
 	text-align: center;
+  vertical-align: middle;
+  display: inline-block;
 	-webkit-box-shadow: -1px -1px 0px 0px #ebeef0;
 	-moz-box-shadow: -1px -1px 0px 0px #ebeef0;
 	box-shadow: -1px -1px 0px 0px #ebeef0;
 }
+
+/*.partner-helper {
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}*/
 
 .partner:hover {
 	background: #f4f6f7;
@@ -840,12 +848,14 @@ Partners
 .partner > a {
   align-content: center;
   vertical-align: middle;
+  height: 100%;
 }
 
 .partner > a > img {
   max-width: 100%;
 	max-height: 100%;
   align-content: center;
+  vertical-align: middle;
 }
 
 
