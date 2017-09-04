@@ -1,8 +1,8 @@
 (function ($) {
     "use strict";
 
-    var venueAddress = "6160 Kempsville Circle, Norfolk, VA", // Venue Address
-        eventInfo = ["Norfolk, Virginia", "November 4th, 2016", "Grow Your Knowledge", "Sharpen Your Skills"]; // Event Info
+    var venueAddress = "700 Conference Center Drive, Chesapeake, VA", // Venue Address
+        eventInfo = ["Chesapeake, Virginia", "November 10th, 2017", "Grow Your Knowledge", "Sharpen Your Skills"]; // Event Info
 
     var fn = {
 
