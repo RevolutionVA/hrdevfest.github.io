@@ -279,7 +279,7 @@
                 var self = this;
                 clearInterval(self.timeout);
                 var id = this.el.attr('id');
-                this.el.after('<span id="' + id + '"/>')
+                this.el.after('<span id="' + id + '"/>');
                 this.el.remove();
                 this.cursor.remove();
                 // Send the callback
