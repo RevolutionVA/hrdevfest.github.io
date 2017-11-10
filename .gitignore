@@ -9,3 +9,5 @@ Package Control.sublime-settings
 
 # Visual Studio
 *.sln
+!/index.html
+/index.html
